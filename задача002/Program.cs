@@ -9,4 +9,4 @@ if (day == 4) Console.WriteLine("Четверг");
 if (day == 5) Console.WriteLine("Пятница");
 if (day == 6) Console.WriteLine("Суббота");
 if (day == 7) Console.WriteLine("Воскресенье");
-else(1 < day > 7) Console.WriteLine("Ошибка!")
+else(1 < day > 7) Console.WriteLine("Ошибка!");
