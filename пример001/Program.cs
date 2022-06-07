@@ -1,7 +1,7 @@
 ﻿//using System;
 
 Console.Clear();
-
+Console.WriteLine("Введите число: ");
 int number = Convert.ToInt32(Console.ReadLine());
 //int number1 = int.Parse(Console.ReadLine());
 
