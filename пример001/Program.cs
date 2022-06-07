@@ -1,4 +1,5 @@
 ﻿//using System;
+//using static System.Console; --- позволяет не вводить "Console." постоянно.
 
 Console.Clear();
 Console.WriteLine("Введите число: ");
